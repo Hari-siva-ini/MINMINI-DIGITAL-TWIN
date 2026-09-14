@@ -1,0 +1,11 @@
+{
+  "name": "MINMINI - Digital Twin & AI Companion Robot",
+  "description": "Interactive 3D Digital Twin and AI Companion Robot simulation for MINMINI desktop personal care robot, featuring telemetry, odometry, facial expression engine, GLM-5.2/Gemini integration, speech pipeline, SQLite memory, scheduler, and physical robot synchronization.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
